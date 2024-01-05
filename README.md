@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **aakarshan0005@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fp8y2WjPe8TbKOuFlB9thADnolwh-dU4/view?usp=sharing](https://drive.google.com/file/d/1fp8y2WjPe8TbKOuFlB9thADnolwh-dU4/view?usp=sharing)
+- 📄 Know about my experiences [)
 
 - ⚡ Fun fact **I am funny**
 
@@ -33,4 +33,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumaraakarshan&" alt="kumaraakarshan" /></p>
 
-S
+
